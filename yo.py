@@ -1,1 +1,1 @@
-print("whattup")
+print("watup")
